@@ -128,6 +128,7 @@ void menu_buku(char daftar_buku[][50], int stok[])
     printf("==========================================\n");
 }
 
+// TAMBAH STOK
 void tambah_stok(char daftar_buku[][50], int stok[])
 {
     int kode, tambah;
