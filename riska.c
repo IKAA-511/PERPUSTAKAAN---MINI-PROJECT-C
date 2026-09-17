@@ -222,6 +222,7 @@ void cetak_bukti(char nama_admin[],
     Sleep(2000);
 }
 
+// MENU UTAMA
 int menu_utama()
 {
     int pilihan;
